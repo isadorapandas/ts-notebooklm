@@ -32,17 +32,18 @@ Alguns prompts solicitados foram:
 
 *1. Inspiração e Conexão Familiar*
 
--*A Avó Marjorie: Marjorie Finlay foi uma cantora de ópera que influenciou Taylor Swift a começar a se apresentar em karaokês e festivais quando ela tinha apenas 10 anos. A conexão com a avó é um tema central na vida pessoal de Taylor, e fotos de Marjorie decoram seu apartamento em Nova York.*
--*Presença Sonora: Um dos detalhes mais tocantes da faixa é que ela inclui gravações reais da voz de Marjorie Finlay cantando ópera, permitindo que avó e neta "dividam" a canção.*
+- *A Avó Marjorie: Marjorie Finlay foi uma cantora de ópera que influenciou Taylor Swift a começar a se apresentar em karaokês e festivais quando ela tinha apenas 10 anos. A conexão com a avó é um tema central na vida pessoal de Taylor, e fotos de Marjorie decoram seu apartamento em Nova York.*
+- *Presença Sonora: Um dos detalhes mais tocantes da faixa é que ela inclui gravações reais da voz de Marjorie Finlay cantando ópera, permitindo que avó e neta "dividam" a canção.*
 
 *2. Temas e Composição Lírica*
 
 *A letra da música explora o luto, a sabedoria passada entre gerações e o arrependimento por não ter aproveitado mais o tempo com quem se foi:*
--*Conselhos de Vida: O refrão traz conselhos atribuídos à avó, como: "Nunca seja tão gentil a ponto de esquecer de ser esperta / Nunca seja tão esperta a ponto de esquecer de ser gentil".*
--*A Dor da Perda: Taylor canta sobre a dificuldade de aceitar a morte, afirmando que "o que morreu não permaneceu morto / você está viva na minha cabeça".*
--*Arrependimentos: A canção descreve o desejo de Taylor de ter feito mais perguntas à avó enquanto ela estava viva: "Eu deveria ter te feito perguntas / Eu deveria ter te perguntado como ser".*
+
+- *Conselhos de Vida: O refrão traz conselhos atribuídos à avó, como: "Nunca seja tão gentil a ponto de esquecer de ser esperta / Nunca seja tão esperta a ponto de esquecer de ser gentil".*
+- *A Dor da Perda: Taylor canta sobre a dificuldade de aceitar a morte, afirmando que "o que morreu não permaneceu morto / você está viva na minha cabeça".*
+- *Arrependimentos: A canção descreve o desejo de Taylor de ter feito mais perguntas à avó enquanto ela estava viva: "Eu deveria ter te feito perguntas / Eu deveria ter te perguntado como ser".*
 
 *3. Impacto na "The Eras Tour" e Documentário*
 
--*Performance Emocional: Na The Eras Tour, a música faz parte do bloco dedicado aos álbuns folklore e evermore (frequentemente fundidos como o ato "folkmore"). Durante as apresentações, os fãs costumam ligar as luzes dos celulares em um tributo silencioso que emociona a plateia e a própria Taylor.*
+- *Performance Emocional: Na The Eras Tour, a música faz parte do bloco dedicado aos álbuns folklore e evermore (frequentemente fundidos como o ato "folkmore"). Durante as apresentações, os fãs costumam ligar as luzes dos celulares em um tributo silencioso que emociona a plateia e a própria Taylor.*
 
