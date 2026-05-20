@@ -13,7 +13,7 @@ Obs.: Todas as fontes utilizadas foram a partir desses dois domínios principais
 - https://taylorswift.com.br/billboard-afirma-que-taylor-swift-e-a-maior-estrela-pop-do-mundo-atualmente/
 - https://taylorswift.com.br/karma-youll-all-get-yours-videos-da-infame-ligacao-entre-kanye-west-e-taylor-swift-vazam-na-internet/
 
-Para facilitar o acesso da IA às letras dos álbuns da cantora, foi criado o arquivo todas_as_letras_ts.txt com as letras de todas as músicas de todos os seus álbuns (versões originais e traduzidas). Para tal, foi utilizado o código em Python (letras-taylor.py) para extrair de cada aba do site do TSBR, dedicadas a cada álbum. Porteriormente, o arquivo .txt foi adicionado como fonte no Notebook LM.
+Para facilitar o acesso da IA às letras dos álbuns da cantora, foi criado o arquivo *todas_as_letras_ts.txt* com as letras de todas as músicas de todos os seus álbuns (versões originais e traduzidas). Para tal, foi utilizado o código em Python (*letras-taylor.py*) para extrair de cada aba do site do TSBR, dedicadas a cada álbum. Porteriormente, o arquivo .txt foi adicionado como fonte no Notebook LM.
 
 Conforme novas fontes foram sendo adicionadas ao Notebook, respostas mais embasadas e completas foram fornecidas. 
 
@@ -104,6 +104,6 @@ A turnê é descrita como um marco que elevou Swift ao status de símbolo cultur
 
 CONSIDERAÇÕES FINAIS
 
-Neste repositório, há também uma apresentação de slides (The_Swift_Architecture.pdf) e um mapa mental (Mind_Map_TS.png) gerado pelo Notebook LM sobre a trajetória de vida e carreira de Taylor Swift.
+Neste repositório, há também uma apresentação de slides (*The_Swift_Architecture.pdf*) e um mapa mental (*Mind_Map_TS.png*), gerados pelo Notebook LM, sobre a trajetória de vida e carreira de Taylor Swift.
 
 Ao todo, foram utilizadas 50 fontes.
