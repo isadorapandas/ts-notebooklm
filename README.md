@@ -102,7 +102,7 @@ A turnê é descrita como um marco que elevou Swift ao status de símbolo cultur
 
 - *Performance Emocional: Na The Eras Tour, a música faz parte do bloco dedicado aos álbuns folklore e evermore (frequentemente fundidos como o ato "folkmore"). Durante as apresentações, os fãs costumam ligar as luzes dos celulares em um tributo silencioso que emociona a plateia e a própria Taylor.*
 
-CONSIDERAÇÕES FINAIS
+**CONSIDERAÇÕES FINAIS**
 
 Neste repositório, há também uma apresentação de slides (*The_Swift_Architecture.pdf*) e um mapa mental (*Mind_Map_TS.png*), gerados pelo Notebook LM, sobre a trajetória de vida e carreira de Taylor Swift.
 
