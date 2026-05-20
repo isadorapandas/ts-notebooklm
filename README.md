@@ -16,7 +16,62 @@ Obs.: Todas as fontes utilizadas foram a partir desses dois domínios principais
 Para facilitar o acesso da IA às letras dos álbuns da cantora, foi criado o arquivo todas_as_letras_ts.txt com as letras de todas as músicas de todos os seus álbuns (versões originais e traduzidas). Para tal, foi utilizado o código em Python (letras-taylor.py) para extrair de cada aba do site do TSBR, dedicadas a cada álbum. Porteriormente, o arquivo .txt foi adicionado como fonte no Notebook LM.
 
 Conforme novas fontes foram sendo adicionadas ao Notebook, respostas mais embasadas e completas foram fornecidas. 
-Alguns prompts solicitados foram: 
+
+**RESUMO ESTRUTURADO**
+
+O Notebook consolida a trajetória de Taylor Swift, organizando sua evolução artística, batalhas na indústria e marcos culturais documentados nas fontes.
+
+1. A Fundação e a Evolução das Eras
+
+A carreira de Taylor Swift é dividida em "Eras", cada uma representando um álbum de estúdio e uma fase distinta de sua vida.
+- O Início Country (TS1-TS3): Taylor começou como uma contadora de histórias confessional em seu álbum de estreia (2006). Com Fearless (2008), tornou-se a artista mais jovem a vencer o Grammy de Álbum do Ano. Em Speak Now (2010), ela escreveu todas as faixas sozinha para provar sua autonomia como compositora.  
+- A Transição Pop (TS4-TS5): Red (2012) marcou o início de uma transição gradual que culminou em 1989 (2014), seu primeiro álbum oficialmente pop e um fenômeno global.
+- Conflito e Reinvenção (TS6-TS7): Após um cancelamento público massivo, ela lançou reputation (2017), ressignificando a imagem da cobra. Com Lover (2019), iniciou sua fase na Republic Records, garantindo a propriedade de seus futuros masters.  
+- Exploração Narrativa e Ficção (TS8-TS9): Durante a pandemia, lançou folklore e evermore (2020), trocando a autobiografia por narrativas ficcionais complexas, como o famoso triângulo amoroso entre James, Betty e a garota de "august".- 
+- Domínio Moderno e Futuro (TS10-TS12): Midnights (2022) explorou noites insones, enquanto The Tortured Poets Department (2024) apresentou uma antologia fatalista. O ciclo mais recente documentado é The Life of a Showgirl (2025), que explora a vulnerabilidade sob os holofotes.
+  
+2. Revolução na Indústria Musical
+  
+Taylor Swift redefiniu as relações de poder entre artistas e gravadoras através de três frentes principais:
+
+- Propriedade e "Taylor’s Versions": Após ter seus masters vendidos para Scooter Braun, Taylor iniciou o projeto de regravar seus primeiros seis álbuns para retomar o controle de sua obra. Em maio de 2025, ela anunciou a compra definitiva de todos os seus masters originais por US$ 360 milhões.
+- A "Cláusula Taylor Swift": Em seu contrato de 2018 com a UMG, ela exigiu que os lucros da venda de ações do Spotify pela gravadora fossem distribuídos a todos os artistas do selo de forma não-recoupável, beneficiando milhares de músicos.
+- Inovação na Distribuição e Tecnologia: Taylor contornou os grandes estúdios para lançar o filme The Eras Tour diretamente nos cinemas e foi pioneira ao registrar sua voz e imagem como marcas para se proteger contra o uso indevido de Inteligência Artificial.
+  
+3. A Composição como Identidade
+   
+Reconhecida no hall dos 30 maiores compositores vivos, Taylor utiliza técnicas específicas que criam uma conexão profunda com os fãs:
+
+- Pontes e Mash-ups: Ela é famosa por suas "pontes" detalhadas, que retrocedem para mostrar o quadro completo de uma história. Na The Eras Tour, ela inovou ao criar mash-ups acústicos que conectam diferentes eras tematicamente.
+- Easter Eggs e Narrativa: Taylor transforma o lançamento de músicas em eventos interativos, escondendo pistas (Easter Eggs) sobre futuros projetos em figurinos, discursos e videoclipes. A "Quarta Parede": Desde o início, ela utiliza a composição dentro da própria música, revelando ao final que ela é a narradora ou a autora daquela história específica, como em "Our Song" ou "The Last Great American Dynasty".
+
+4. O Fenômeno Cultural: The Eras Tour
+
+A turnê é descrita como um marco que elevou Swift ao status de símbolo cultural comparável aos Beatles ou Michael Jackson.
+
+- Recordes Econômicos: A turnê arrecadou mais de US$ 2 bilhões, com mais de 10 milhões de ingressos vendidos e 152 estádios esgotados mundialmente.
+- Impacto Social: O evento reintroduziu tradições como a troca de pulseiras da amizade e gerou um impacto econômico massivo nas cidades que a receberam.
+- Conteúdo Audiovisual: A jornada foi documentada no filme-concerto de maior bilheteria da história e na série documental do Disney+ The End of an Era.
+
+5. Vida Pessoal e o Círculo de Apoio
+   
+- Família como Estratégia: Taylor descreve sua gestão como uma "pequena empresa familiar", com seus pais (Andrea e Scott) e seu irmão (Austin) atuando como conselheiros cruciais e suporte emocional.
+- O Casal Poderoso: Seu relacionamento com o jogador da NFL Travis Kelce, iniciado em 2023 e culminando no noivado em 2025, gerou um aumento histórico na audiência feminina de futebol americano e na venda de produtos licenciados.
+- Ativismo Político: A partir do documentário Miss Americana (2020), Swift abandonou a neutralidade, apoiando abertamente causas LGBTQ+, direitos das mulheres e candidatos democratas como Kamala Harris.
+
+**GLOSSÁRIO**
+
+- Eras: O conceito estrutural que organiza a carreira de Taylor em capítulos visuais, sonoros e temáticos distintos, onde cada álbum de estúdio representa uma fase específica de sua vida e evolução artística.
+- Masters: Refere-se às gravações originais das canções; a venda dos direitos dos seus primeiros seis álbuns para Scooter Braun em 2019 motivou Taylor a iniciar seu projeto de regravações para retomar o controle de sua obra.
+- Taylor’s Version (TV): Título distintivo utilizado nos álbuns regravados por Taylor, servindo como uma marca de propriedade exclusiva da artista e um incentivo para que os fãs consumam apenas as novas versões.
+- From The Vault (Do Cofre): Canções inéditas que foram escritas durante a criação de um álbum original, mas descartadas na época e lançadas anos depois como faixas bônus nas regravações.
+- Cláusula Taylor Swift: Dispositivo incluído por Taylor em seu contrato com a UMG em 2018, que obriga a gravadora a distribuir os lucros da venda de suas ações no Spotify para todos os artistas do selo de forma não-recoupável (sem desconto de dívidas).
+- Não-recoupável: Termo técnico para fundos distribuídos a artistas que não podem ser retidos pela gravadora para pagar adiantamentos ou dívidas anteriores do músico.
+- Preço Dinâmico: Estratégia de venda de ingressos que Taylor desativou na The Eras Tour para evitar que os valores nominais subissem excessivamente conforme a demanda.
+- Triskaidekaphilia: A obsessão e amor pelo número 13, que Taylor considera seu número da sorte e utiliza de muitas formas, como em datas de lançamento e numerologia pessoal.
+- Female Rage: Conceito visual e performático introduzido na The Eras Tour para descrever o ato dedicado ao álbum The Tortured Poets Department, explorando a raiva feminina de forma teatral.
+
+**PROMPTS** 
 
 - **"Qual é o impacto de Taylor Swift na indústria musical?"**
 
