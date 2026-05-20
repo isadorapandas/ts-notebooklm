@@ -1,9 +1,9 @@
 # ts-notebooklm
 Caderno temático sobre a artista Taylor Swift criado via NotebookLM para fins de aprendizado do curso "Explore o Poder do NotebookLM" da DIO. 
 
-*CONTEXTO E OBJETIVO(S)*: Criar um espaço de conhecimento, com fontes confiáveis, sobre a história de vida e carreira de Taylor Swift, como forma de acesso interativo aos interessados pelo conteúdo. A curadoria da bibliografia foi baseada principalmente no impacto da cantora como compositora e artista na indústria musical, além de sua influência na cultura pop mundial até os dias atuais. 
+**CONTEXTO E OBJETIVO(S)**: Criar um espaço de conhecimento, com fontes confiáveis, sobre a história de vida e carreira de Taylor Swift, como forma de acesso interativo aos interessados pelo conteúdo. A curadoria da bibliografia foi baseada principalmente no impacto da cantora como compositora e artista na indústria musical, além de sua influência na cultura pop mundial até os dias atuais. 
 
-*FONTES PRINCIPAIS UTILIZADAS*: 
+**FONTES PRINCIPAIS UTILIZADAS**: 
 - Taylor Swift Brasil: https://taylorswift.com.br/
 - Swiftie Cast: https://open.spotify.com/show/77dCNfJDGYa8GzcwqiodfY?si=ebe4e899c977407e
 
