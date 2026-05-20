@@ -48,7 +48,7 @@ def extrair_todas_as_letras():
     ficheiro_saida = "Letras_TLOAS_Taylor_Swift.txt"
     with open(ficheiro_saida, "w", encoding="utf-8") as f:
         f.write("==================================================\n")
-        f.write("      TAYLOR SWIFT - TLOAS TV     \n")
+        f.write("      TAYLOR SWIFT - TLOAS     \n")
         f.write("==================================================\n\n")
 
     # Percorrer cada link e extrair a letra
