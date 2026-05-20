@@ -21,7 +21,7 @@ Conforme novas fontes foram sendo adicionadas ao Notebook, respostas mais embasa
 
 O Notebook consolida a trajetória de Taylor Swift, organizando sua evolução artística, batalhas na indústria e marcos culturais documentados nas fontes.
 
-1. A Fundação e a Evolução das Eras
+1. **A Fundação e a Evolução das Eras**
 
 A carreira de Taylor Swift é dividida em "Eras", cada uma representando um álbum de estúdio e uma fase distinta de sua vida.
 - O Início Country (TS1-TS3): Taylor começou como uma contadora de histórias confessional em seu álbum de estreia (2006). Com Fearless (2008), tornou-se a artista mais jovem a vencer o Grammy de Álbum do Ano. Em Speak Now (2010), ela escreveu todas as faixas sozinha para provar sua autonomia como compositora.  
@@ -30,7 +30,7 @@ A carreira de Taylor Swift é dividida em "Eras", cada uma representando um álb
 - Exploração Narrativa e Ficção (TS8-TS9): Durante a pandemia, lançou folklore e evermore (2020), trocando a autobiografia por narrativas ficcionais complexas, como o famoso triângulo amoroso entre James, Betty e a garota de "august".- 
 - Domínio Moderno e Futuro (TS10-TS12): Midnights (2022) explorou noites insones, enquanto The Tortured Poets Department (2024) apresentou uma antologia fatalista. O ciclo mais recente documentado é The Life of a Showgirl (2025), que explora a vulnerabilidade sob os holofotes.
   
-2. Revolução na Indústria Musical
+2. **Revolução na Indústria Musical**
   
 Taylor Swift redefiniu as relações de poder entre artistas e gravadoras através de três frentes principais:
 
@@ -38,14 +38,14 @@ Taylor Swift redefiniu as relações de poder entre artistas e gravadoras atrav�
 - A "Cláusula Taylor Swift": Em seu contrato de 2018 com a UMG, ela exigiu que os lucros da venda de ações do Spotify pela gravadora fossem distribuídos a todos os artistas do selo de forma não-recoupável, beneficiando milhares de músicos.
 - Inovação na Distribuição e Tecnologia: Taylor contornou os grandes estúdios para lançar o filme The Eras Tour diretamente nos cinemas e foi pioneira ao registrar sua voz e imagem como marcas para se proteger contra o uso indevido de Inteligência Artificial.
   
-3. A Composição como Identidade
+3. **A Composição como Identidade**
    
 Reconhecida no hall dos 30 maiores compositores vivos, Taylor utiliza técnicas específicas que criam uma conexão profunda com os fãs:
 
 - Pontes e Mash-ups: Ela é famosa por suas "pontes" detalhadas, que retrocedem para mostrar o quadro completo de uma história. Na The Eras Tour, ela inovou ao criar mash-ups acústicos que conectam diferentes eras tematicamente.
 - Easter Eggs e Narrativa: Taylor transforma o lançamento de músicas em eventos interativos, escondendo pistas (Easter Eggs) sobre futuros projetos em figurinos, discursos e videoclipes. A "Quarta Parede": Desde o início, ela utiliza a composição dentro da própria música, revelando ao final que ela é a narradora ou a autora daquela história específica, como em "Our Song" ou "The Last Great American Dynasty".
 
-4. O Fenômeno Cultural: The Eras Tour
+4. **O Fenômeno Cultural: The Eras Tour**
 
 A turnê é descrita como um marco que elevou Swift ao status de símbolo cultural comparável aos Beatles ou Michael Jackson.
 
@@ -53,7 +53,7 @@ A turnê é descrita como um marco que elevou Swift ao status de símbolo cultur
 - Impacto Social: O evento reintroduziu tradições como a troca de pulseiras da amizade e gerou um impacto econômico massivo nas cidades que a receberam.
 - Conteúdo Audiovisual: A jornada foi documentada no filme-concerto de maior bilheteria da história e na série documental do Disney+ The End of an Era.
 
-5. Vida Pessoal e o Círculo de Apoio
+5. **Vida Pessoal e o Círculo de Apoio**
    
 - Família como Estratégia: Taylor descreve sua gestão como uma "pequena empresa familiar", com seus pais (Andrea e Scott) e seu irmão (Austin) atuando como conselheiros cruciais e suporte emocional.
 - O Casal Poderoso: Seu relacionamento com o jogador da NFL Travis Kelce, iniciado em 2023 e culminando no noivado em 2025, gerou um aumento histórico na audiência feminina de futebol americano e na venda de produtos licenciados.
@@ -71,7 +71,7 @@ A turnê é descrita como um marco que elevou Swift ao status de símbolo cultur
 - Triskaidekaphilia: A obsessão e amor pelo número 13, que Taylor considera seu número da sorte e utiliza de muitas formas, como em datas de lançamento e numerologia pessoal.
 - Female Rage: Conceito visual e performático introduzido na The Eras Tour para descrever o ato dedicado ao álbum The Tortured Poets Department, explorando a raiva feminina de forma teatral.
 
-**PROMPTS** 
+**PROMPTS UTILIZADOS** 
 
 - **"Qual é o impacto de Taylor Swift na indústria musical?"**
 
@@ -102,3 +102,8 @@ A turnê é descrita como um marco que elevou Swift ao status de símbolo cultur
 
 - *Performance Emocional: Na The Eras Tour, a música faz parte do bloco dedicado aos álbuns folklore e evermore (frequentemente fundidos como o ato "folkmore"). Durante as apresentações, os fãs costumam ligar as luzes dos celulares em um tributo silencioso que emociona a plateia e a própria Taylor.*
 
+CONSIDERAÇÕES FINAIS
+
+Neste repositório, há também uma apresentação de slides (The_Swift_Architecture.pdf) e um mapa mental (Mind_Map_TS.png) gerado pelo Notebook LM sobre a trajetória de vida e carreira de Taylor Swift.
+
+Ao todo, foram utilizadas 50 fontes.
