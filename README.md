@@ -5,7 +5,7 @@ Caderno temático sobre a artista Taylor Swift criado via NotebookLM para fins d
 
 *FONTES*: 
 - Taylor Swift Brasil: https://taylorswift.com.br/
-- Swiftie Cast: https://open.spotify.com/show/77dCNfJDGYa8GzcwqiodfY?utm_medium=share&utm_source=linktree
+- Swiftie Cast: https://open.spotify.com/show/77dCNfJDGYa8GzcwqiodfY?si=ebe4e899c977407e
  Obs.: todas as fontes utilizadas foram a partir desses dois domínios principais.
 
 Conforme novas fontes foram sendo adicionadas ao Notebook, respostas mais embasadas e completas foram fornecidas. 
